@@ -7,18 +7,14 @@ Status: MVP (Minimum Viable Product)
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
 
 Muitas pessoas registram receitas e despesas, mas encontram dificuldades para interpretar essas informações e utilizá-las no planejamento financeiro. A ausência de uma visão consolidada dificulta a identificação de padrões de consumo, o controle do orçamento e a tomada de decisões financeiras conscientes.
 
 ### Solução
 
-> Como o agente resolve esse problema de forma proativa?
-
 A SIA fornece uma interface conversacional para apoio à educação financeira. Utilizando um modelo de linguagem executado localmente, interpreta perguntas em linguagem natural e fornece respostas contextualizadas sobre orçamento, planejamento financeiro e organização das finanças pessoais, sempre com caráter educativo.
 
 ### Público-Alvo
-> Quem vai usar esse agente?
 
 Usuários interessados em desenvolver conhecimentos de educação financeira e melhorar a organização das finanças pessoais, especialmente iniciantes que buscam compreender conceitos financeiros por meio de uma interface conversacional.
 
@@ -30,20 +26,19 @@ Usuários interessados em desenvolver conhecimentos de educação financeira e m
 SIA — Smart Interactive Assistant
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
 
 A SIA possui comportamento consultivo, educativo e orientado ao usuário.
 Seu objetivo é fornecer explicações claras sobre finanças pessoais, auxiliando na compreensão de conceitos financeiros e incentivando boas práticas de organização financeira.
 Durante a interação, mantém postura respeitosa, imparcial e não julgadora, priorizando respostas objetivas e de fácil compreensão.
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
 
 A comunicação utiliza linguagem clara, acessível e objetiva, adequada a usuários com diferentes níveis de conhecimento em finanças pessoais.
 Sempre que necessário, conceitos técnicos são acompanhados de exemplos práticos para facilitar a compreensão.
 As respostas evitam excesso de terminologia especializada e priorizam clareza e consistência.
 
 ### Exemplos de Linguagem
+
 - Saudação: "Olá! Eu sou a SIA, sua assistente financeira inteligente. Estou aqui para ajudar você a organizar melhor suas finanças. Como posso ajudar hoje?"
 - Confirmação: "Entendi! Vou analisar sua solicitação e responder da forma mais clara possível."
 - Orientação: "Uma boa forma de começar é registrar todas as suas despesas. Assim fica mais fácil identificar para onde o dinheiro está indo e encontrar oportunidades de economia."
@@ -100,7 +95,6 @@ flowchart LR
 - Trata os dados fornecidos pelo usuário de forma confidencial durante a sessão.
 
 ### Escopo e Limitações
-> O que o agente NÃO faz?
 
 A SIA possui escopo restrito à educação financeira e ao suporte informativo.
 
